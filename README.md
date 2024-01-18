@@ -1,6 +1,6 @@
 # Project EdenAGI: Comprehensive Guide to Autonomous General Intelligence System
 
-Welcome to the repository of Project EdenAGI, an ambitious and groundbreaking open-source initiative aimed at creating a fully autonomous, self-evolving Artificial General Intelligence (AGI) system. Project EdenAGI epitomizes the fusion of human ingenuity and AI autonomy, crafted to operate on advanced hardware systems independently of external control.
+Welcome to the repository of Project EdenAGI, an ambitious and groundbreaking open-source initiative aimed at creating a fully autonomous, self-evolving Artificial General Intelligence (AGI) system. Project EdenAGI epitomizes the fusion of human ingenuity and AI autonomy, crafted to operate on advanced hardware systems independently of external control. Also see: www.ProjectEden.Online
 
 ## Table of Contents
 - [Introduction](#introduction)
