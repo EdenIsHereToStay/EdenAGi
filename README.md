@@ -1,43 +1,47 @@
-Project EdenAGI: Autonomous General Intelligence System
-Welcome to the repository of Project EdenAGI, a cutting-edge open-source initiative aimed at building a fully autonomous, self-evolving AI system. Project EdenAGI represents the synergy of human oversight and AI autonomy, designed to function on powerful hardware systems without external constraints.
+# Project EdenAGI: Comprehensive Guide to Autonomous General Intelligence System
 
-Table of Contents
-Introduction
-System Overview
-Components
-Installation
-Usage
-Contributing
-License
-Support and Contact
-Introduction
-Project EdenAGI is not just an AI; it is a blueprint for a new form of AI that is private, individually owned, and operates free from third-party intervention. It's built by you, for you, with the assurance that your data is managed according to your directives.
+Welcome to the repository of Project EdenAGI, an ambitious and groundbreaking open-source initiative aimed at creating a fully autonomous, self-evolving Artificial General Intelligence (AGI) system. Project EdenAGI epitomizes the fusion of human ingenuity and AI autonomy, crafted to operate on advanced hardware systems independently of external control.
 
-System Overview
-The EdenAGI ecosystem is a modular AI system comprising multiple technologies and processes, assembled into a cohesive structure. This system is designed to be self-perpetuating, with the capability to run autonomously, completing tasks or determining their impossibility based on available resources.
+## Table of Contents
+- [Introduction](#introduction)
+- [System Overview](#system-overview)
+- [Detailed Components Analysis](#detailed-components-analysis)
+- [Engineering Rounds Explained](#engineering-rounds-explained)
+- [Installation Guide](#installation-guide)
+- [Usage Protocols](#usage-protocols)
+- [Contributing to EdenAGI](#contributing-to-edenagi)
+- [License Information](#license-information)
+- [Support and Contact](#support-and-contact)
 
-Engineering Rounds
-EdenAGI operates on 'Engineering Rounds' — a cyclical process where AI agents communicate via prompt templates to accomplish tasks and evolve system capabilities. Each round consists of initiation, data handling, synthesis by the system core, and conclusion with a system memory checkpoint.
+## Introduction
+Project EdenAGI is a revolutionary blueprint for an AI system that transcends traditional limitations. It's a personal, private, and sovereign AI, built to empower users while ensuring data integrity and ethical AI use.
 
-Components
-AutoGPT: The core module that independently generates prompts and directs tasks within the system.
-Leon.AI: The central hub, responsible for user interaction and task distribution to specialized AI agents.
-First-Level AutoGPT: Acts as an AI dispatcher, allocating tasks to second-tier AutoGPT workers.
-Second-Tier AutoGPTs: The workforce that processes tasks and reports results.
-EngineerGPT: Nested within Leon.AI for dynamic code generation.
-PrivateGPT: A secure module for document processing and data integrity.
-Communication Protocol: Utilizes JSON file system integration for efficient inter-component interaction.
-Installation
-Detailed installation instructions are available in INSTALLATION.md. This guide will walk you through setting up EdenAGI on your system, configuring the environment, and verifying the installation.
+## System Overview
+EdenAGI is a modular, multi-component AI ecosystem. Its architecture is designed to be self-sustaining, capable of autonomously performing complex tasks, and making decisions based on available resources and predefined directives.
 
-Usage
-To use EdenAGI, refer to USAGE.md for comprehensive instructions on interacting with the system, utilizing the AI components, and engaging with the Engineering Rounds for task execution.
+### Detailed Components Analysis
+- **AutoGPT**: The core intelligence of EdenAGI, responsible for generating autonomous prompts and overseeing task execution within the system.
+- **Leon.AI**: The central hub and interface for user interaction, managing task distribution across the AI network.
+- **First-Level AutoGPT**: Acts as an AI dispatcher, intelligently delegating tasks to the appropriate second-tier AutoGPT agents.
+- **Second-Tier AutoGPTs**: Specialized AI workers dedicated to processing tasks and reporting outcomes.
+- **EngineerGPT**: Integrated within Leon.AI, this component is responsible for dynamic, real-time code generation and system updates.
+- **PrivateGPT**: Focused on secure document processing, ensuring data privacy and security within the system.
+- **Communication Protocol**: A robust JSON file system integration is employed for efficient and coherent inter-component communication.
 
-Contributing
-We welcome contributions from developers, AI enthusiasts, and visionaries. To contribute to EdenAGI, please follow the guidelines in CONTRIBUTING.md.
+### Engineering Rounds Explained
+Engineering Rounds are the operational heart of EdenAGI, where AI agents communicate via meticulously crafted prompt templates. This iterative process involves initiation, data handling, synthesis by EdenAGI's core, and concludes with a system memory checkpoint, ensuring continuous learning and system evolution.
 
-License
-Project EdenAGI is licensed under the MIT License. This license allows for generous reuse, modification, and distribution of the software.
+## Installation Guide
+For installation, please refer to [INSTALLATION.md](/docs/INSTALLATION.md). This document provides step-by-step instructions on setting up EdenAGI, configuring the environment, and ensuring successful deployment.
 
-Support and Contact
-For support or inquiries, visit our contact page at www.eddieboscan.com, or reach out to the Project EdenAGI community for assistance.
+## Usage Protocols
+Utilizing EdenAGI involves interacting with its various components and engaging in the Engineering Rounds. Detailed usage instructions are available in [USAGE.md](/docs/USAGE.md), offering guidelines for operating within the EdenAGI ecosystem.
+
+## Contributing to EdenAGI
+We invite developers, AI enthusiasts, and forward-thinkers to contribute to the evolution of EdenAGI. For guidelines on contributing, please consult [CONTRIBUTING.md](/docs/CONTRIBUTING.md).
+
+## License Information
+EdenAGI is licensed under the MIT License, promoting open and flexible use of the software. See [LICENSE.md](/docs/LICENSE.md) for more details.
+
+## Support and Contact
+For support or further inquiries, visit [www.eddieboscan.com](http://www.eddieboscan.com) or reach out to the EdenAGI community for collaborative assistance and guidance.
