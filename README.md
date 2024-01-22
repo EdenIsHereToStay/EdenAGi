@@ -17,7 +17,7 @@ Project_Eden/
 │   ├── SupportAndContact.md                     # Information for support and contact.
 │   └── ...                                      # Other documentation files.
 │
-├── src/                                         # Source code for the entire project.
+├── aiTools/                                     # Source code for the entire project.
 │   ├── leonAI/                                  # Central Hub: Leon.AI (Parent Component)
 │   │   ├── ui/                                  # User Interface components.
 │   │   ├── taskManager/                         # Task management logic.
