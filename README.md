@@ -15,6 +15,11 @@ Project_Eden/
 │   ├── UsageProtocols.md                        # Guide on how to use the system.
 │   ├── Contributing.md                          # Guidelines for contributing to EdenAGI.
 │   ├── SupportAndContact.md                     # Information for support and contact.
+│   ├── knowledgeBases/                          # Knowledge Bases for LLM, LAM, etc.
+│   │   ├── localizedKnowledgeBase/              # Localized Knowledge Bases.
+│   │   ├── memoryFiles/                         # Storage of system restore files and engineering round summaries.
+│   │   ├── promptTemplateLibrary/               # Storage of prompt templates to be used for system engineering.
+│   │   └── systemWideKnowledgeBase/             # System-wide Knowledge Bases.
 │   └── ...                                      # Other documentation files.
 │
 ├── aiTools/                                     # Source code for the entire project.
@@ -26,7 +31,7 @@ Project_Eden/
 │   ├── autoGPT/                                 # AutoGPT (Parent and Child Components)
 │   │   ├── parentAutoGPT/                       # Parent AutoGPT (AI Dispatcher)
 │   │   │   ├── inputParser/                     # Input parsing components.
-│   │   │   └── childAutoGPT/                    # Child AutoGPTs (Worker Allocators)
+│   │   │   ├── childAutoGPT/                    # Child AutoGPTs (Worker Allocators)
 │   │   │       └── ...                          # Other components.
 │   │   └── ...                                  # Other AutoGPT related components.
 │   │
@@ -44,9 +49,6 @@ Project_Eden/
 │   │   ├── codeAuditor/                         # Code auditing components.
 │   │   └── deploymentManager/                   # Code deployment mechanisms.
 │   │
-│   ├── knowledgeBases/                          # Knowledge Bases for LLM, LAM, etc.
-│   │   ├── localizedKnowledgeBase/              # Localized Knowledge Bases.
-│   │   └── systemWideKnowledgeBase/             # System-wide Knowledge Bases.
 │   │
 │   └── aiModels/                                # All AI models (LLM, LAM, etc.).
 │       ├── llm/                                 # Large Language Models.
