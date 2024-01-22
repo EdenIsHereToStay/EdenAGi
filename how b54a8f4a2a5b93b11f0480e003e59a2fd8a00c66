@@ -1,0 +1,63 @@
+[33mcommit b54a8f4a2a5b93b11f0480e003e59a2fd8a00c66[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: EdenAGi <EdenisHeretoStay@gmail.com>
+Date:   Mon Jan 22 01:35:34 2024 -0600
+
+    Initialized Basic Files System Structure.
+
+[33mcommit 505130a18f44e2aba3740afdcd6d4889dea604cb[m
+Author: Edster <125619633+EdenIsHereToStay@users.noreply.github.com>
+Date:   Thu Jan 18 04:56:59 2024 -0500
+
+    Create EngineeringRoundsExplanation
+
+[33mcommit 987f40a7ad87fe675c754dd555def8a557c80db6[m
+Author: Edster <125619633+EdenIsHereToStay@users.noreply.github.com>
+Date:   Thu Jan 18 04:38:19 2024 -0500
+
+    Update README.md
+    
+    Added website to README
+
+[33mcommit 66d0172b23a851b56f2284cf71a97d6ca861dca6[m
+Author: Edster <125619633+EdenIsHereToStay@users.noreply.github.com>
+Date:   Thu Jan 18 04:11:03 2024 -0500
+
+    Update README with Comprehensive Project Overview and Technical Details
+    
+    This commit significantly updates the README file for the Project EdenAGI repository. The new README provides a detailed and exhaustive overview of the project, including its purpose, system architecture, and component functionalities. Key updates and highlights include:
+    
+    - Expanded Introduction: Clarifies the vision and scope of Project EdenAGI as a groundbreaking AI system, emphasizing its autonomous and self-evolving nature.
+    
+    - Detailed System Overview: Offers a deeper insight into the modular design of EdenAGI, highlighting how various components synergistically operate to achieve autonomy and adaptability.
+    
+    - Comprehensive Components Analysis: Each major component of the system, including AutoGPT, Leon.AI, EngineerGPT, and PrivateGPT, is elaborated upon. This section explains their roles, interactions, and contributions to the system’s overall functionality.
+    
+    - Engineering Rounds Explained: A new section that breaks down the 'Engineering Rounds' process, detailing how AI agents communicate and collaborate to execute tasks and facilitate continuous system learning and improvement.
+    
+    - Installation and Usage Protocols: Provides updated guidelines for setting up and using EdenAGI, ensuring users and contributors can easily navigate and engage with the system.
+    
+    - Contribution Guidelines: Encourages and guides developers, AI enthusiasts, and visionaries on how to contribute effectively to the project.
+    
+    - Licensing and Support Information: Includes essential details about the project's MIT license and offers directions for support and contact.
+    
+    This README is designed to be technically thorough, providing comprehensive knowledge to any agent or developer interacting with the system. The aim is to ensure complete operational clarity and facilitate efficient project onboarding and contribution.
+
+[33mcommit ff3983c899f7703af29a06e43658e3d40cae2b24[m
+Author: Edster <125619633+EdenIsHereToStay@users.noreply.github.com>
+Date:   Mon Jan 15 23:36:48 2024 -0500
+
+    Update README.md
+
+[33mcommit ff1ed478548c2666c7679bfb1d234af7a1a803b3[m
+Author: Edster <125619633+EdenIsHereToStay@users.noreply.github.com>
+Date:   Mon Jan 15 23:36:24 2024 -0500
+
+    Update README.md
+    
+    Created initial README
+
+[33mcommit ebcb9efa32c652729f88f351c085129e7764b305[m
+Author: Edster <125619633+EdenIsHereToStay@users.noreply.github.com>
+Date:   Mon Jan 15 22:15:02 2024 -0500
+
+    Initial commit
