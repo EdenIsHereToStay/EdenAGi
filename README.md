@@ -2,16 +2,70 @@
 
 Welcome to the repository of Project EdenAGI, an ambitious and groundbreaking open-source initiative aimed at creating a fully autonomous, self-evolving Artificial General Intelligence (AGI) system. Project EdenAGI epitomizes the fusion of human ingenuity and AI autonomy, crafted to operate on advanced hardware systems independently of external control. Also see: www.ProjectEden.Online
 
-## Table of Contents
-- [Introduction](#introduction)
-- [System Overview](#system-overview)
-- [Detailed Components Analysis](#detailed-components-analysis)
-- [Engineering Rounds Explained](#engineering-rounds-explained)
-- [Installation Guide](#installation-guide)
-- [Usage Protocols](#usage-protocols)
-- [Contributing to EdenAGI](#contributing-to-edenagi)
-- [License Information](#license-information)
-- [Support and Contact](#support-and-contact)
+Project_Eden/
+│
+├── docs/                                        # Project documentation.
+│   ├── SystemDesign.md                          # Detailed system design documentation.
+│   ├── AutoGPT_Update_Specifications.md         # AutoGPT enhancement specifics.
+│   ├── Introduction.md                          # Introduction to Project Eden.
+│   ├── SystemOverview.md                        # Overview of the entire system.
+│   ├── DetailedComponentsAnalysis.md            # In-depth analysis of each component.
+│   ├── EngineeringRoundsExplained.md            # Explanation of the engineering rounds.
+│   ├── InstallationGuide.md                     # Step-by-step installation instructions.
+│   ├── UsageProtocols.md                        # Guide on how to use the system.
+│   ├── Contributing.md                          # Guidelines for contributing to EdenAGI.
+│   ├── SupportAndContact.md                     # Information for support and contact.
+│   └── ...                                      # Other documentation files.
+│
+├── src/                                         # Source code for the entire project.
+│   ├── leonAI/                                  # Central Hub: Leon.AI (Parent Component)
+│   │   ├── ui/                                  # User Interface components.
+│   │   ├── taskManager/                         # Task management logic.
+│   │   └── feedbackMechanism/                   # Feedback mechanism implementation.
+│   │
+│   ├── autoGPT/                                 # AutoGPT (Parent and Child Components)
+│   │   ├── parentAutoGPT/                       # Parent AutoGPT (AI Dispatcher)
+│   │   │   ├── inputParser/                     # Input parsing components.
+│   │   │   ├── childAutoGPT/                    # Child AutoGPTs (Worker Allocators)
+│   │   │   └── ...                              # Other components.
+│   │   └── ...                                  # Other AutoGPT related components.
+│   │
+│   ├── privateGPT/                              # PrivateGPT for secure document processing.
+│   │   ├── documentReader/                      # Document reading components.
+│   │   ├── dataProcessor/                       # Data processing logic.
+│   │   └── securityLayer/                       # Security layers for data.
+│   │
+│   ├── selfOperatingComputer/                   # SelfOperatingComputer components.
+│   │   ├── operationManager/                    # Operation management logic.
+│   │   └── ...                                  # Other components.
+│   │
+│   ├── codeGeneration/                          # Code Generation (EngineerGPT)
+│   │   ├── codeGenerator/                       # Code generation logic.
+│   │   ├── codeAuditor/                         # Code auditing components.
+│   │   └── deploymentManager/                   # Code deployment mechanisms.
+│   │
+│   ├── knowledgeBases/                          # Knowledge Bases for LLM, LAM, etc.
+│   │   ├── localizedKnowledgeBase/              # Localized Knowledge Bases.
+│   │   └── systemWideKnowledgeBase/             # System-wide Knowledge Bases.
+│   │
+│   └── aiModels/                                # All AI models (LLM, LAM, etc.).
+│       ├── llm/                                 # Large Language Models.
+│       ├── lam/                                 # Large Associative Memories.
+│       └── ...                                  # Other AI models.
+│
+├── tests/                                       # Test cases for the project.
+│   ├── leonAITests/                             # Tests for Leon.AI components.
+│   ├── autoGPTTests/                            # Tests for AutoGPT components.
+│   ├── privateGPTTests/                         # Tests for PrivateGPT.
+│   ├── selfOperatingComputerTests/              # Tests for SelfOperatingComputer.
+│   └── ...                                      # Other test suites.
+│
+├── plugins/                                     # Plugins for extending functionality.
+│   └── ...                                      # Plugin files and directories.
+│
+├── .gitignore                                   # Specifies intentionally untracked files to ignore.
+└── README.md                                    # Overview and general information about the project.
+
 
 ## Introduction
 Project EdenAGI is a revolutionary blueprint for an AI system that transcends traditional limitations. It's a personal, private, and sovereign AI, built to empower users while ensuring data integrity and ethical AI use.
@@ -45,3 +99,4 @@ EdenAGI is licensed under the MIT License, promoting open and flexible use of th
 
 ## Support and Contact
 For support or further inquiries, visit [www.eddieboscan.com](http://www.eddieboscan.com) or reach out to the EdenAGI community for collaborative assistance and guidance.
+
