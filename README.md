@@ -100,5 +100,5 @@ We invite developers, AI enthusiasts, and forward-thinkers to contribute to the 
 EdenAGI is licensed under the MIT License, promoting open and flexible use of the software. See [LICENSE.md](/docs/LICENSE.md) for more details.
 
 ## Support and Contact
-For support or further inquiries, visit [www.eddieboscan.com](http://www.eddieboscan.com) or reach out to the EdenAGI community for collaborative assistance and guidance.
+For support or further inquiries, visit [www.eddieboscana.com](http://www.eddieboscan.com) or reach out to the EdenAGI community for collaborative assistance and guidance.
 
