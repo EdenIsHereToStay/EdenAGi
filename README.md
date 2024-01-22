@@ -26,8 +26,8 @@ Project_Eden/
 │   ├── autoGPT/                                 # AutoGPT (Parent and Child Components)
 │   │   ├── parentAutoGPT/                       # Parent AutoGPT (AI Dispatcher)
 │   │   │   ├── inputParser/                     # Input parsing components.
-│   │   │   ├── childAutoGPT/                    # Child AutoGPTs (Worker Allocators)
-│   │   │   └── ...                              # Other components.
+│   │   │   └── childAutoGPT/                    # Child AutoGPTs (Worker Allocators)
+│   │   │       └── ...                          # Other components.
 │   │   └── ...                                  # Other AutoGPT related components.
 │   │
 │   ├── privateGPT/                              # PrivateGPT for secure document processing.
