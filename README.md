@@ -22,7 +22,7 @@ Project_Eden/
 │   │   └── systemWideKnowledgeBase/             # System-wide Knowledge Bases.
 │   └── ...                                      # Other documentation files.
 │
-├── aiTools/                                     # Source code for the entire project.
+├── src/                                     # Source code for the entire project.
 │   ├── leonAI/                                  # Central Hub: Leon.AI (Parent Component)
 │   │   ├── ui/                                  # User Interface components.
 │   │   ├── taskManager/                         # Task management logic.
