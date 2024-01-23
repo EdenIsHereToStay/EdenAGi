@@ -7,12 +7,74 @@ This guide provides step-by-step instructions for setting up Project EdenAGI on 
 - Clone the EdenAGI repository: `git clone https://github.com/EdenIsHereToStay/EdenAGi.git`
 - Navigate to the cloned directory: `cd EdenAGi`
 
-## Understanding the File Structure
-- `/docs`: Contains documentation and knowledge bases.
-- `/plugins`: For plugins or extensions.
-- `/src`: Contains source code and/or ai models/compoenents of the system.
-- `/tests`: For test scripts and scenarios.
-- More details on [ProjectEden.Online](https://www.projecteden.online/).
+# File System Overview
+
+## File Structure Explanation
+
+The file structure of Project EdenAGI is designed to provide clarity, ease of use, and a logical organization of all components involved in the project. This structure is pivotal for understanding how different parts of the system interact, as well as for guiding users and developers in navigating and contributing to the project effectively.
+
+### Key Components of the File Structure:
+
+- **`/docs`**: This directory is the heart of documentation for Project EdenAGI. It includes detailed system design documents, update specifications for components like AutoGPT, introductory guides, and comprehensive analysis of each system component. This section is essential for anyone looking to understand the project in-depth or contribute to its development.
+
+- **`/src`**: The source directory contains the core code and AI models that drive Project EdenAGI. Each sub-directory within `src` is dedicated to a specific component of the system, such as LeonAI, AutoGPT, and PrivateGPT. This organization ensures a modular and maintainable codebase.
+
+- **`/tests`**: Housing test cases and scenarios, this directory is crucial for ensuring the reliability and stability of Project EdenAGI. It includes tests for each major component, providing a way to validate changes and updates systematically.
+
+- **`/plugins`**: This directory is reserved for plugins or extensions that enhance the functionality of Project EdenAGI. It embodies the project's commitment to extensibility and customization.
+
+### Organizational Philosophy:
+
+- **Modularity**: Each component of Project EdenAGI is contained within its own sub-directory, promoting a modular approach. This facilitates easier updates, maintenance, and scalability of the system.
+
+- **Clarity and Accessibility**: The clear naming conventions and logical grouping of files and directories are designed to make the system user-friendly and navigable, aiding both new users and seasoned contributors.
+
+- **Comprehensive Documentation**: The extensive documentation provided in the `/docs` directory serves as a guide and reference, ensuring users and developers have a deep understanding of the system's functionality and architecture.
+
+- **Testing and Reliability**: The emphasis on testing, reflected in the `/tests` directory, underscores the project's commitment to quality and reliability, an essential aspect of any sophisticated AI system.
+
+By understanding this file structure, users and contributors can effectively navigate, utilize, and enhance Project EdenAGI, ensuring its ongoing development and success.
+
+
+Project_Eden/
+│
+├── docs/                                        # Project documentation.
+│   ├── SystemDesign.md                          # Detailed system design documentation.
+│   ├── AutoGPT_Update_Specifications.md         # AutoGPT enhancement specifics.
+│   ├── Introduction.md                          # Introduction to Project Eden.
+│   ├── SystemOverview.md                        # Overview of the entire system.
+│   ├── DetailedComponentsAnalysis.md            # In-depth analysis of each component.
+│   ├── EngineeringRoundsExplained.md            # Explanation of the engineering rounds.
+│   ├── InstallationGuide.md                     # Step-by-step installation instructions.
+│   ├── UsageProtocols.md                        # Guide on how to use the system.
+│   ├── Contributing.md                          # Guidelines for contributing to EdenAGI.
+│   ├── SupportAndContact.md                     # Information for support and contact.
+│   ├── knowledgeBases/                          # Knowledge Bases for LLM, LAM, etc.
+│   │   ├── localizedKnowledgeBase/              # Localized Knowledge Bases.
+│   │   ├── memoryFiles/                         # Storage of system restore files and engineering round summaries.
+│   │   ├── promptTemplateLibrary/               # Storage of prompt templates to be used for system engineering.
+│   │   └── systemWideKnowledgeBase/             # System-wide Knowledge Bases.
+│   │       └── AgentSOPs/                       # Standard Operating Procedures for Agents.
+│   └── SetupInstructions/                       # Additional setup instructions.
+│
+├── src/                                         # Source code for the entire project.
+│   ├── leonAi/                                  # Central Hub: Leon.AI (Parent Component).
+│   ├── autoGPT/                                 # AutoGPT (Parent and Child Components).
+│   ├── privateGPT/                              # PrivateGPT for secure document processing.
+│   ├── selfOperatingComputer/                   # SelfOperatingComputer components.
+│   ├── codeGeneration/                          # Code Generation (EngineerGPT).
+│   └── aiModels/                                # All AI models (LLM, LAM, etc.).
+│
+├── tests/                                       # Test cases for the project.
+│   ├── leonAITests/                             # Tests for Leon.AI components.
+│   ├── autoGPTTests/                            # Tests for AutoGPT components.
+│   ├── privateGPTTests/                         # Tests for PrivateGPT.
+│   └── selfOperatingComputerTests/              # Tests for SelfOperatingComputer.
+│
+├── plugins/                                     # Plugins for extending functionality.
+│
+├── .gitignore                                   # Specifies intentionally untracked files to ignore.
+└── README.md                                    # Overview and general information about the project.
 
 ## Setting Up Core Systems
 - Navigate to `/src`.
