@@ -50,7 +50,7 @@ Project_Eden/
 │   ├── Contributing.md                          # Guidelines for contributing to EdenAGI.
 │   ├── SupportAndContact.md                     # Information for support and contact.
 │   ├── knowledgeBases/                          # Knowledge Bases for LLM, LAM, etc.
-│   │   ├── localizedKnowledgeBase/              # Localized Knowledge Bases.
+│   │   ├── agentSpecificKnowledgeBase/              # Localized Knowledge Bases.
 │   │   ├── memoryFiles/                         # Storage of system restore files and engineering round summaries.
 │   │   ├── promptTemplateLibrary/               # Storage of prompt templates to be used for system engineering.
 │   │   └── systemWideKnowledgeBase/             # System-wide Knowledge Bases.
