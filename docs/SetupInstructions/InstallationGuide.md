@@ -82,7 +82,7 @@ Project_Eden/
 
 ### AutoGPT Setup
 - Download AutoGPT from the [GitHub repository](https://github.com/link-to-auto-gpt).
-- Configure AutoGPT in the `/src/AutoGPT` directory.
+- Configure AutoGPT as a REPLACEMENT for the `/src/AutoGPT` directory.
 - Detailed instructions can be found in the [AutoGPT Comprehensive User Guide](https://link-to-auto-gpt-guide).
 
 ### EngineerGPT Integration
