@@ -64,7 +64,7 @@ Project_Eden/
 │   ├── aiModels/                                  # All AI models (LLM, LAM, etc.).
 │   │   ├── AutoGPT/                               # AutoGPT components.
 │   │   ├── leonAi/                                # Leon.AI components.
-│   │   ├── LocalLAM-Storage/                      # Storage for Large Associative Memories (LAM).
+│   │   ├── LocalLAM-Storage/                      # Storage for Large Action Models (LAM).
 │   │   ├── LocalLLM-Storage/                      # Storage for Large Language Models (LLM).
 │   │   ├── privateGPT/                            # PrivateGPT for secure document processing.
 │   │   └── selfOperatingComputer/                 # Self-Operating Computer components.
