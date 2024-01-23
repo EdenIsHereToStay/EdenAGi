@@ -10,7 +10,7 @@ This guide provides step-by-step instructions for setting up Project EdenAGI on 
 ## Understanding the File Structure
 - `/docs`: Contains documentation and knowledge bases.
 - `/plugins`: For plugins or extensions.
-- `/src`: Contains source code of the system.
+- `/src`: Contains source code and/or ai models/compoenents of the system.
 - `/tests`: For test scripts and scenarios.
 - More details on [ProjectEden.Online](https://www.projecteden.online/).
 
