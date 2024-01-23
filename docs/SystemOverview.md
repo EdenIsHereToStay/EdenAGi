@@ -1,41 +1,51 @@
-System Overview of Project EdenAGI
-Introduction
-Project EdenAGI represents a paradigm shift in AI development, focusing on the creation of an Autonomous General Intelligence (AGI) system. This document provides a comprehensive overview of the system’s architecture, components, and functionalities, adhering to OpenAI's Updated Usage Policies and GPT Brand Guidelines.
+# Project Eden System Overview
 
-Architectural Design
-Modular Structure
-Project EdenAGI is designed as a modular system, allowing for seamless integration and interaction between various AI components. This design facilitates adaptability and scalability, ensuring the system can evolve and expand over time.
+## Introduction
 
-Central Hub: Leon.AI
-Leon.AI serves as the central command and control center, orchestrating user interactions and task distribution. It operates on a Node.js and Python framework, providing a versatile and cross-platform solution.
+Project Eden represents the pinnacle of AGI systems, designed to function autonomously and evolve over time. This system is grounded in the principles of modularity, autonomy, and self-sustainability, capable of operating on robust hardware platforms devoid of external constraints.
 
-AI Components
-AutoGPT: The core of EdenAGI, responsible for autonomous prompt generation and task management. It operates independently, creating and executing tasks across the system.
-Rabbit Model: Integrates with GitHub, managing real-time tracking and repository engineering. It plays a critical role in system updates, documentation management, and codebase organization.
-First-Level AutoGPT: Acts as an AI dispatcher, assigning tasks to specialized second-tier AutoGPTs based on system requirements and objectives.
-Second-Tier AutoGPTs: Focus on task execution, processing inputs, and delivering outputs. They represent the workforce of the EdenAGI system.
-Cross-Compatibility
-EdenAGI is evolving into a cross-compatible, open-source Operating System (OS), ensuring functionality across diverse hardware platforms. This adaptability is central to the system's design, enabling it to operate in various environments.
+## System Architecture
 
-Functionality and Workflow
-Engineering Rounds
-Engineering Rounds are cyclical processes integral to EdenAGI's operation. These rounds involve:
+At the core of Project Eden is EdenAGI, functioning as the brain of the operation. It is responsible for synthesizing inputs, orchestrating tasks, and managing the distributed intelligence across the network.
 
-Initiation: Triggered by user inputs or predefined events.
-Data Handling: Utilizing prompt templates, AI components process and exchange information.
-Synthesis: Core system aggregates and synthesizes data.
-Conclusion: A checkpoint is created, updating the system memory and preparing for the next round.
-Rabbit Model’s GitHub Interaction
-The Rabbit model's interaction with GitHub is pivotal in maintaining and evolving the system. It autonomously:
+### Sub-Systems
 
-Tracks Changes: Monitors updates and modifications within the repository.
-Organizes Content: Categorizes and structures documentation, code, and other repository elements.
-Engineers Repository: Implements developmental changes, ensuring the repository aligns with ongoing project objectives.
-Compliance and Ethical Considerations
-Project EdenAGI is developed with a strong emphasis on ethical AI practices and compliance with legal standards. It strictly adheres to guidelines preventing the promotion of illegal activities, hate speech, violence, or harmful content. The system is not designed for use in high-risk sectors like weapons development or critical infrastructure control.
+- **HardwareSystemsGPT**: Dedicated to managing and optimizing the physical infrastructure.
+- **SoftwareSystemsGPT**: Focuses on software management, ensuring seamless data processing and system operations.
 
-Community Initiatives
-The project recognizes the importance of community-driven development. Initiatives like RabbitDevs Club are instrumental in fostering collaboration and innovation within the AI community.
+## Engineering Rounds
 
-Conclusion
-Project EdenAGI stands as a beacon of innovation in AGI technology. It blends advanced AI components into a cohesive, intelligent ecosystem, capable of autonomous operation and continuous evolution. As the project progresses, it remains committed to ethical practices, community involvement, and technological excellence.
+Engineering Rounds are integral to Project Eden, facilitating a cycle of continuous improvement and evolution. They represent the iterative process of task execution, data synthesis, and system enhancement.
+
+### Task Distribution
+
+The system is equipped with an advanced task distribution framework that allows for the dynamic allocation of tasks to appropriate sub-systems, optimizing for efficiency and resource utilization.
+
+### Data Management
+
+A meticulous approach to data storage and retrieval is employed, ensuring robustness in system restore capabilities and data integrity across the network.
+
+## Autonomy and Interoperability
+
+EdenAGI agents are highly autonomous, yet they operate in a tightly integrated manner to ensure system-wide interoperability and collective intelligence.
+
+### Sub-System Generation
+
+Agents within the network have the capability to create and manage sub-systems autonomously, enhancing the system's adaptability and functional scope.
+
+### Communication Protocols
+
+The system adheres to standardized communication protocols, ensuring that all components can interact and exchange data fluidly and cohesively.
+
+## Evolutionary Perspective
+
+Project Eden marks a transformative approach to AGI, where systems are not only self-sufficient but also capable of self-organized growth and learning.
+
+### Continuous Growth
+
+Designed for perpetual enhancement, the system learns and adapts to new information and scenarios, pushing the boundaries of AGI capabilities.
+
+## Conclusion
+
+Project Eden stands as a testament to the future of AGI systems — self-evolving, autonomous, and capable of unparalleled collaboration and functionality.
+
