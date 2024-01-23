@@ -81,34 +81,32 @@ Project_Eden/
 - Install dependencies: `./install_dependencies.sh` (Linux/Mac) or `install_dependencies.bat` (Windows).
 
 ### AutoGPT Setup
-- Download AutoGPT from the [GitHub repository](https://github.com/link-to-auto-gpt).
 - Configure AutoGPT as a REPLACEMENT for the `/src/AutoGPT` directory.
-- Detailed instructions can be found in the [AutoGPT Comprehensive User Guide](https://link-to-auto-gpt-guide).
+- Detailed instructions can be found in the [AutoGPT Comprehensive User Guide](EdenAGi\docs\SetupInstructions\CoreComponentConfigurationSetupInstructions\AutoGPTSetup.md).
 
 ### EngineerGPT Integration
-- Download EngineerGPT from [SourceForge](https://sourceforge.net/projects/engineergpt/).
-- Install and configure in the `/src/EngineerGPT` directory.
-- Integration guide with Leon.AI available [here](https://link-to-engineergpt-guide).
+- Install and configure as a REPLACEMENT for the `/src/EngineerGPT` directory.
+- Integration guide with EngineerGPT available [here](EdenAGi\docs\SetupInstructions\CoreComponentConfigurationSetupInstructions\EngineerGPTSetup.md).
 
 ### PrivateGPT Configuration
-- Download PrivateGPT from its [GitHub repository](https://github.com/link-to-privategpt).
-- Set up in the `/src/PrivateGPT` directory.
-- Follow the [PrivateGPT User Guide](https://link-to-privategpt-guide) for detailed instructions.
+- Set up adn configure as a REPLACEMENT for the `/src/PrivateGPT` directory.
+- Follow the [PrivateGPT User Guide](EdenAGi\docs\SetupInstructions\CoreComponentConfigurationSetupInstructions\PrivateGPTSetup.md) for detailed instructions.
 
 ### Leon AI Integration
-- Clone Leon AI from its [GitHub repository](https://github.com/leon-ai/leon).
-- Set up in the `/src/LeonAI` directory.
-- Configure as per the [Leon AI Documentation](https://docs.getleon.ai/).
+- Set up as a REPLACEMENT for the `/src/LeonAI` directory.
+- Configure as per the [Leon AI Documentation](EdenAGi\docs\SetupInstructions\CoreComponentConfigurationSetupInstructions\LeonAiSetup.md).
 
 ## Integrating Language Models
 - Refer to the [Comprehensive Guide to Large Language Models](https://link-to-language-models-guide) for integration details of models like BERT, GPT, T5, etc.
+- LocalLLM stored: [ EdenAGi\src\aiModels\LocalLLM-Storage ]
 
 ## Falcon 180B Integration
-- Technical integration steps for Falcon 180B are detailed in the [Falcon 180B Technical Deep Dive](https://link-to-falcon-180b-integration).
+- Technical integration steps for Falcon 180B are detailed in the [Falcon 180B Technical Deep Dive]( https://www.projecteden.online/infrastructure/falcon-180b-integration ).
+- LocalLLM stored: [ EdenAGi\src\aiModels\LocalLLM-Storage ]
 
 ## Setting Up the Self-Operating-Computer Framework
-- Clone the repository: `git clone https://github.com/OthersideAI/self-operating-computer.git`.
-- Follow the setup instructions in the [Self-Operating Computer Framework Guide](https://link-to-self-operating-computer-guide).
+- Set up as a REPLACEMENT for the `/src/SelfOperatingComputer` directory.
+- Follow the setup instructions as REPLACMENT fo the [Self-Operating Computer Framework Guide](EdenAGi\docs\SystemInstructions\CoreComponentConfigurationSetupInstructions\SelfOperatingComputerSetup.md).
 
 ## Final Configuration
 - Ensure all systems in `/src` are correctly set up and configured.

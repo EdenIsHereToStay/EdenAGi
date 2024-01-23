@@ -1,7 +1,7 @@
 # EngineerGPT Setup Guide
 
 ## Overview of EngineerGPT
-EngineerGPT is an innovative, open-source tool that utilizes AI for code generation from text prompts. It is capable of creating complete applications from a single prompt and will be a core component within the Leon AI system.
+EngineerGPT is an innovative, open-source tool that utilizes AI for code generation from text prompts. It is capable of creating complete applications from a single prompt and will be a core component within the Leon AI system. see: https://www.projecteden.online/infrastructure/engineergpt
 
 ### Download:
 - EngineerGPT can be downloaded for free from [SourceForge](https://sourceforge.net/projects/engineergpt/).
