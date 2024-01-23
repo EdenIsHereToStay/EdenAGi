@@ -33,53 +33,69 @@ The file structure of Project EdenAGI is designed to provide clarity, ease of us
 
 - **Testing and Reliability**: The emphasis on testing, reflected in the `/tests` directory, underscores the project's commitment to quality and reliability, an essential aspect of any sophisticated AI system.
 
+- **Default File System**:
 By understanding this file structure, users and contributors can effectively navigate, utilize, and enhance Project EdenAGI, ensuring its ongoing development and success.
 
-
 Project_Eden/
-├── dev/                                           # Development environment.
-│
-├── docs/                                          # Project documentation.
-│   ├── guides/                                    # Instructional guides.
-│   ├── knowledgeBases/                            # Knowledge Bases for various components.
-│   │   ├── agentSpecificKnowledgeBase/            # Knowledge Base specific to each AI agent.
-│   │   ├── memoryFiles/                           # Storage of system restore files and summaries.
-│   │   ├── projectInsights/                       # Insights and findings related to the project.
-│   │   ├── promptTemplateLibrary/                 # Collection of prompt templates for system engineering.
-│   │   ├── researchPapers/                        # Repository of research papers.
-│   │   ├── systemWideKnowledgeBase/               # General Knowledge Base for the entire system.
-│   │   │   └── AgentSOPs/                         # Standard Operating Procedures for AI Agents.
-│   │   └── technicalReferences/                   # Technical references and documentation.
-│   ├── SystemInstructions/                        # Instructions for system setup and usage.
-│   │   ├── CoreComponentConfigurationSetupInstructions/ # Setup instructions for core components.
-│   │   └── CoreComponentConfigurationUsageInstructions/ # Usage instructions for core components.
-│   ├── technicalDocs/                             # Technical documentation for advanced users.
-│   └── userManuals/                               # User manuals for general audience.
-│
-├── plugins/                                       # Plugins for extending functionality.
-│   ├── dataManagement/                            # Plugins for data management.
-│   └── textProcessing/                            # Plugins for text processing.
-│
-├── src/                                           # Source code for the entire project.
-│   ├── aiModels/                                  # All AI models (LLM, LAM, etc.).
-│   │   ├── AutoGPT/                               # AutoGPT components.
-│   │   ├── leonAi/                                # Leon.AI components.
-│   │   ├── LocalLAM-Storage/                      # Storage for Large Action Models (LAM).
-│   │   ├── LocalLLM-Storage/                      # Storage for Large Language Models (LLM).
-│   │   ├── privateGPT/                            # PrivateGPT for secure document processing.
-│   │   └── selfOperatingComputer/                 # Self-Operating Computer components.
-│   └── codeGeneration/                            # Code generation components (EngineerGPT).
-│
-├── staging/                                       # Staging environment for pre-production testing.
-│
-├── tests/                                         # Test cases for the project.
-│   ├── autoGPTTests/                              # Tests for AutoGPT components.
-│   ├── leonAITests/                               # Tests for Leon.AI components.
-│   ├── privateGPTTests/                           # Tests for PrivateGPT.
-│   └── selfOperatingComputerTests/                # Tests for Self-Operating Computer.
-│
-├── .gitignore                                     # Specifies intentionally untracked files to ignore.
-└── README.md                                      # Overview and general information about the project.
+├── README.md                                     # Overview and general information about the project.
+├── dev/                                          # Development environment.
+├── docs/                                         # Comprehensive project documentation.
+│   ├── Contributing.md                           # Guidelines for contributing to Project Eden.
+│   ├── LICENSE                                   # Legal license document.
+│   ├── guides/                                   # Instructional guides for various processes.
+│   ├── knowledgeBases/                           # Central repository of knowledge.
+│   │   ├── agentSpecificKnowledgeBase/           # Knowledge base tailored to specific AI agents.
+│   │   │   └── test.txt                          # Placeholder file for agent-specific knowledge.
+│   │   ├── memoryFiles/                          # Storage of system restore files and summaries.
+│   │   │   └── test.txt                          # Placeholder file for memory files.
+│   │   ├── projectInsights/                      # Insights and findings related to the project.
+│   │   ├── promptTemplateLibrary/                # Collection of prompt templates for engineering.
+│   │   │   └── test.txt                          # Placeholder file for prompt templates.
+│   │   ├── researchPapers/                       # Repository of relevant research papers.
+│   │   ├── systemWideKnowledgeBase/              # General knowledge base for the entire system.
+│   │   │   ├── SystemWide_StrategicUpdatePlan.md # Strategic update plan for the system.
+│   │   │   ├── test.txt                          # Placeholder file for system-wide knowledge.
+│   │   │   └── AgentSOPs/                        # Standard Operating Procedures for AI Agents.
+│   │   │       ├── SOP-EdenAGiAutoGPT.md         # SOP for EdenAGi AutoGPT.
+│   │   │       └── SOP-keeperOfTheRecords.md     # SOP for Keeper of the Records role.
+│   │   └── technicalReferences/                  # Technical references and documentation.
+│   ├── SystemInstructions/                       # Instructions for system setup and usage.
+│   │   ├── DetailedComponents.md                 # Detailed analysis of each system component.
+│   │   ├── EngineeringRoundsExplained.md         # Explanation of the engineering rounds.
+│   │   ├── InstallationGuide.md                  # Step-by-step installation instructions.
+│   │   ├── Introduction.md                       # Introduction to Project Eden.
+│   │   ├── SupportAndContact.md                  # Information for support and contact.
+│   │   ├── SystemOverview.md                     # Overview of the entire system.
+│   │   ├── UsageProtocols.md                     # Guide on how to use the system.
+│   │   ├── CoreComponentConfigurationSetupInstructions/
+│   │   │   ├── AutoGPTSetup.md                   # Setup instructions for AutoGPT.
+│   │   │   ├── EngineerGPTSetup.md               # Setup instructions for EngineerGPT.
+│   │   │   ├── LeonAiSetup.md                    # Setup instructions for Leon AI.
+│   │   │   ├── PrivateGPTSetup.md                # Setup instructions for PrivateGPT.
+│   │   │   └── SelfOperatingComputerSetup.md     # Setup instructions for Self-Operating Computer.
+│   │   └── CoreComponentConfigurationUsageInstructions/
+│   ├── technicalDocs/                            # Technical documentation for advanced users.
+│   └── userManuals/                              # User manuals for the general audience.
+├── plugins/                                      # Plugins for extending functionality.
+│   ├── dataManagement/                           # Plugins for data management.
+│   └── textProcessing/                           # Plugins for text processing.
+├── src/                                          # Source code for the entire project.
+│   ├── aiModels/                                 # All AI models (LLM, LAM, etc.).
+│   │   ├── AutoGPT/                              # AutoGPT components.
+│   │   ├── leonAi/                               # Leon.AI components.
+│   │   ├── LocalLAM-Storage/                     # Storage for Large Associative Memories (LAM).
+│   │   ├── LocalLLM-Storage/                     # Storage for Large Language Models (LLM).
+│   │   ├── privateGPT/                           # PrivateGPT for secure document processing.
+│   │   └── selfOperatingComputer/                # Self-Operating Computer components.
+│   └── codeGeneration/                           # Code generation components (EngineerGPT).
+├── staging/                                      # Staging environment for pre-production testing.
+└── tests/                                        # Test cases for the project.
+    ├── autoGPTTests/                             # Tests for AutoGPT components.
+    ├── leonAITests/                              # Tests for Leon.AI components.
+    ├── privateGPTTests/                          # Tests for PrivateGPT.
+    └── selfOperatingComputerTests/               # Tests for Self-Operating Computer.
+
+
 
 
 ## Setting Up Core Systems
