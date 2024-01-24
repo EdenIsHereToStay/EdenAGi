@@ -58,4 +58,18 @@ Project_Eden/
 │   │   ├── privateGPT/                          # PrivateGPT for secure document processing.
 │   │   │   └── test.txt                         # Placeholder file for PrivateGPT components.
 │   │   └── selfOperatingComputer/               # Self-Operating Computer components.
-│   │       └── test.txt                         # Placeholder
+│   │       └── test.txt                         # Placeholder file for Self-Operating Computer components.
+│   └── codeGeneration/                          # Code generation components (EngineerGPT).
+│       └── test.txt                             # Placeholder file for code generation components.
+│
+├── staging/                                     # Staging environment for pre-production testing.
+│
+└── tests/                                       # Test cases for the project.
+    ├── autoGPTTests/                            # Tests for AutoGPT components.
+    │   └── test.txt                             # Placeholder file for AutoGPT tests.
+    ├── leonAITests/                             # Tests for Leon.AI components.
+    │   └── test.txt                             # Placeholder file for Leon.AI tests.
+    ├── privateGPTTests/                         # Tests for PrivateGPT.
+    │   └── test.txt                             # Placeholder file for PrivateGPT tests.
+    └── selfOperatingComputerTests/              # Tests for Self-Operating Computer.
+        └── test.txt                             # Placeholder file for Self-Operating Computer tests.
