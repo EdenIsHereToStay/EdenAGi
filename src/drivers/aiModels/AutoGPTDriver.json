@@ -1,0 +1,74 @@
+{
+  "driver_name": "AutoGPTDriver",
+  "driver_version": "1.0",
+  "autoGPT_version": "GPT-4",
+  "description": "Comprehensive driver for setting up, configuring, and operating AutoGPT systems within Project Eden.",
+  "setup_instructions": {
+    "installation": {
+      "description": "Instructions for installing AutoGPT and its dependencies.",
+      "steps": [
+        "Download AutoGPT from the official GitHub repository.",
+        "Extract the files to a designated directory within the Project Eden file structure.",
+        "Install required dependencies through provided scripts or manually using package managers."
+      ]
+    },
+    "plugin_management": {
+      "description": "Guidelines for installing and managing AutoGPT plugins.",
+      "steps": [
+        "Download plugins from the AutoGPT plugins directory or external sources.",
+        "Execute dependency installation scripts for each plugin.",
+        "Configure ALLOWLISTED_PLUGINS in the .env file to enable specific plugins."
+      ]
+    },
+    "integration_with_leon_ai": {
+      "description": "Steps to integrate AutoGPT with Leon.ai for enhanced capabilities.",
+      "steps": [
+        "Create a 'Auto-GPT' folder within Leon.ai's working directory.",
+        "Copy AutoGPT files into this directory.",
+        "Use Visual Studio Plus to open and manage the AutoGPT project within Leon.ai's environment."
+      ]
+    }
+  },
+  "operational_instructions": {
+    "primary_autoGPT": {
+      "description": "Configuration and operation of the Primary AutoGPT agent, serving as a controller and communicator.",
+      "tasks": [
+        "Interpret tasks from user or higher-level systems.",
+        "Delegate tasks to Secondary AutoGPT agents.",
+        "Analyze and relay outputs from Secondary agents."
+      ],
+      "communication": "Primary agent communicates with Secondary agents through terminal commands and output analysis."
+    },
+    "secondary_autoGPT": {
+      "description": "Configuration and operation of Secondary AutoGPT agents, responsible for executing tasks.",
+      "tasks": [
+        "Perform tasks as instructed by the Primary AutoGPT.",
+        "Interact with online and local applications as required.",
+        "Provide feedback and results to the Primary AutoGPT."
+      ],
+      "communication": "Secondary agents receive instructions from the Primary AutoGPT and report back through terminal output or designated communication channels."
+    }
+  },
+  "safety_protocols": {
+    "monitoring": "Continuous monitoring of AutoGPT activities, especially in continuous mode, to prevent unauthorized actions.",
+    "command_verification": "Verification of commands before execution to ensure they align with Project Eden's safety and operational guidelines.",
+    "error_handling": "Implementation of robust error handling mechanisms to address and rectify issues promptly."
+  },
+  "best_practices": [
+    "Regularly update AutoGPT and its plugins to the latest versions.",
+    "Maintain clear documentation of all configurations and customizations.",
+    "Back up critical data and configurations periodically to prevent data loss."
+  ],
+  "troubleshooting_guide": {
+    "common_issues": [
+      "Plugin dependency errors",
+      "API key configuration issues",
+      "Integration challenges with Leon.ai"
+    ],
+    "solutions": [
+      "Review and follow plugin installation instructions carefully.",
+      "Ensure the OPENAI_API_KEY is correctly set in the .env file.",
+      "Check the integration steps with Leon.ai and ensure the AutoGPT directory is correctly set up."
+    ]
+  }
+}
