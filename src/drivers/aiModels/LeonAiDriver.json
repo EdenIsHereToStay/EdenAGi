@@ -1,0 +1,51 @@
+{
+    "driver_name": "LeonAIDriver",
+    "driver_version": "1.0",
+    "application_name": "Leon AI",
+    "description": "Leon AI is an open-source personal assistant built on Node.js, Python, and AI concepts, designed to perform tasks autonomously on a server.",
+    "repository": "https://github.com/leon-ai/leon",
+    "key_features": {
+      "personal_assistant": "Provides personalized assistance through voice and text interactions.",
+      "open_source": "Fully open-source, allowing for community contributions and customization.",
+      "offline_functionality": "Capable of operating offline to ensure privacy and data security.",
+      "modular_structure": "Supports a modular structure for skills, enabling easy extension and customization."
+    },
+    "installation_instructions": {
+      "prerequisites": ["Git", "Node.js (version 16 or higher)", "npm (version 8 or higher)"],
+      "steps": [
+        "Install Leon CLI via `npm install --global @leon-ai/cli`.",
+        "Create and run Leon with `leon create birth` and `leon start` commands.",
+        "Access Leon through the web app at the specified host and port."
+      ]
+    },
+    "configuration_instructions": {
+      "environment_variables": "Customize Leon's settings through environment variables in the `.env` file, including language, server host, and port.",
+      "voice_configuration": "Configure STT and TTS providers for voice interactions, with support for offline and online modes."
+    },
+    "usage_instructions": {
+      "interacting_with_leon": "Communicate with Leon via voice or text through the web app client.",
+      "skills_usage": "Utilize Leon's skills such as GitHub Trends, Todo List, Internet Speed Test, and more for various tasks."
+    },
+    "integration_with_eden": {
+      "role_in_eden": "Acts as the initial backbone for Eden, automating and controlling all localized systems.",
+      "resource_usage": "Utilizes resources like AutoGPT, EngineerGPT, PrivateGPT, and third-party AI tools to complete tasks efficiently."
+    },
+    "skills_overview": {
+      "GitHub_Trends": "Fetches information on trending GitHub repositories.",
+      "Todo_List": "Manages tasks with a to-do list.",
+      "Internet_Speed_Test": "Measures internet connection speed and quality.",
+      "YouTube_Downloader": "Enables downloading of YouTube videos."
+    },
+    "best_practices_and_troubleshooting": {
+      "best_practices": [
+        "Keep Leon and its modules updated.",
+        "Customize and extend Leon's skills according to specific needs."
+      ],
+      "troubleshooting": [
+        "Ensure all prerequisites are correctly installed.",
+        "Refer to the official Leon AI documentation for setup and configuration issues."
+      ]
+    },
+    "message_to_agents": "Agents are encouraged to utilize Leon AI for automating tasks and enhancing operational efficiency within Project Eden. Leon's modular structure and open-source nature allow for extensive customization and integration, aligning with Eden's objectives for automation and control."
+  }
+  
