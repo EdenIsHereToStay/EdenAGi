@@ -1,0 +1,52 @@
+{
+    "driverName": "EdenSystemsEngineerGPT_RabbitR1_Driver",
+    "version": "1.0",
+    "compatibility": "Compatible with EdenSystemsEngineerGPT infrastructure",
+    "lastUpdated": "2024-01-30",
+    "modules": [
+      {
+        "moduleName": "Rabbit R1 Understanding and Operation",
+        "description": "Enables EdenSystemsEngineerGPT to understand and interact with the Rabbit R1 device.",
+        "functionalOverview": {
+          "foundationModel": "Large Action Model (LAM) for understanding and executing human intentions.",
+          "userInterfaceInteraction": "Interaction with interfaces across multiple platforms.",
+          "naturalLanguageProcessing": "Focus on natural language centered approach.",
+          "rabbitOS": "Advanced operating system powered by LAM."
+        },
+        "keyFeatures": {
+          "pushToTalkButton": "Quick activation for voice commands.",
+          "rabbitEye": "360-degree rotational camera with computer vision.",
+          "teachMode": "Allows teaching new skills or routines.",
+          "realTimeTranslatorAndNoteTaker": "Enhances communication.",
+          "connectivity": "Supports Bluetooth, Wi-Fi, and 4G LTE."
+        },
+        "systemsEngineeringApplication": {
+          "taskAutomation": "Automate system engineering tasks.",
+          "complexQueryHandling": "Handle and respond to complex engineering queries.",
+          "integrations": "Integrate with various services and tools.",
+          "teachModeCustomFunctions": "Train for specific system engineering tasks."
+        },
+        "securityAndPrivacy": {
+          "dataHandling": "No storage of third-party credentials, no user data tracking.",
+          "privacyCommitment": "Respect for user privacy and data security."
+        },
+        "performanceConsiderations": {
+          "responseTime": "Answers queries within 500 milliseconds.",
+          "taskExecutionEfficiency": "Executes complex tasks seamlessly."
+        },
+        "errorHandling": {
+          "feedbackMechanism": "Feedback through the Rabbit Hole Web Portal.",
+          "errorResolution": "Learning from errors for continuous improvement."
+        },
+        "updatingAndVersioning": {
+          "regularUpdates": "System updates for LAM and feature enhancements.",
+          "versionTracking": "Track versions for compatibility."
+        },
+        "additionalNotes": {
+          "teachModeLimitations": "Review capabilities and limitations regularly.",
+          "compatibilityCheck": "Ensure compatibility with system engineering tools."
+        }
+      }
+    ]
+  }
+  

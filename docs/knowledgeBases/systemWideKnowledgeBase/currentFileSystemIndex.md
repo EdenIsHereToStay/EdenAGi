@@ -44,6 +44,7 @@ Project_Eden/
 │   │   │           SOP-AiModelDriverEngineerGPT.md
 │   │   │           SOP-EdenAGiAutoGPT.md
 │   │   │           SOP-keeperOfTheRecords.md
+│   │   │           SOP-RabbitR1HardwareSystem.md
 │   │   │           SOP-SystemsEngineerGPT.md
 │   │   │
 │   │   └───technicalReferences
@@ -66,6 +67,7 @@ Project_Eden/
 │   ├───aiModels
 │   │   │   test.txt
 │   │   │
+│   │   ├───AiTools
 │   │   ├───AutoGPT
 │   │   │       test.txt
 │   │   │
@@ -84,11 +86,14 @@ Project_Eden/
 │   │       test.txt
 │   │
 │   └───drivers
-│       └───aiModels
-│               AutoGPTDriver.json
-│               LeonAiDriver.json
-│               PrivateGPTDriver.json
-│               SelfOperatingComputerDriver.json
+│       ├───aiModels
+│       │       AutoGPTDriver.json
+│       │       LeonAiDriver.json
+│       │       PrivateGPTDriver.json
+│       │       SelfOperatingComputerDriver.json
+│       │
+│       └───hardware
+│               RabbitR1Driver.json
 │
 ├───staging
 └───tests
