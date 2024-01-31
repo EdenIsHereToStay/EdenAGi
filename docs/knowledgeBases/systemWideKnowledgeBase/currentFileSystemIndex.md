@@ -41,6 +41,7 @@ Project_Eden/
 │   │   │   │   test.txt
 │   │   │   │
 │   │   │   └───AgentSOPs
+│   │   │           SOP-AiModelDriverEngineerGPT.md
 │   │   │           SOP-EdenAGiAutoGPT.md
 │   │   │           SOP-keeperOfTheRecords.md
 │   │   │           SOP-SystemsEngineerGPT.md
@@ -79,8 +80,15 @@ Project_Eden/
 │   │   └───selfOperatingComputer
 │   │           test.txt
 │   │
-│   └───codeGeneration
-│           test.txt
+│   ├───codeGeneration
+│   │       test.txt
+│   │
+│   └───drivers
+│       └───aiModels
+│               AutoGPTDriver.json
+│               LeonAiDriver.json
+│               PrivateGPTDriver.json
+│               SelfOperatingComputerDriver.json
 │
 ├───staging
 └───tests
