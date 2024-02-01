@@ -21,7 +21,10 @@ Project_Eden/
 │   │   │   test.txt
 │   │   │
 │   │   ├───agentSpecificKnowledgeBase
-│   │   │       test.txt
+│   │   │   │   test.txt
+│   │   │   │
+│   │   │   └───shortTermMemoryFiles
+│   │   │           EdenAGiAutoGPTThoughts.md
 │   │   │
 │   │   ├───memoryFiles
 │   │   │       test.txt
