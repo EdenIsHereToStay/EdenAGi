@@ -3,7 +3,7 @@
 Welcome to the repository of Project EdenAGI, a pioneering open-source project dedicated to developing a fully autonomous, self-evolving Artificial General Intelligence (AGI) system. Project EdenAGI represents the pinnacle of integrating human innovation with AI autonomy, designed to function independently on sophisticated hardware platforms without external intervention. For more information, visit [Project EdenAGI Online](www.ProjectEden.Online).
 
 ## Introduction
-Project EdenAGI is designed as a cutting-edge blueprint for an AI system that goes beyond the traditional constraints of artificial intelligence. It aims to provide a personal, private, and sovereign AI solution, focusing on empowering users, safeguarding data integrity, and promoting ethical AI practices.
+Project EdenAGI is designed as a cutting-edge blueprint for an AI system that goes beyond the traditional constraints of artificial intelligence. It aims to provide a personal, private, and sovereign AI solution, focusing on empowering users, safeguarding data integrity, and promoting ethical AI practices. Interact with the version of Eden Systems Engineer GPT that created this readme by clicking here: [ https://chat.openai.com/share/5555b5c9-bedf-4c9a-bf70-c56989fa3e4e ]
 
 ## System Overview
 The architecture of EdenAGI is a modular and comprehensive AI ecosystem, constructed to be self-sufficient. It is capable of autonomously executing complex tasks and making informed decisions based on the resources at hand and set directives.
