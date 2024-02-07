@@ -1,21 +1,23 @@
 Project_Eden/
-│   README.md # Main project overview and instructions.
+│   README.md
 │
-├───dev # Development tools and configurations.
-├───docs # Comprehensive documentation of the project.
-│   │   Contributing.md # Guidelines for contributing to the project.
-│   │   LICENSE # Legal license defining the use of the project.
+├───dev
+│       text.md
+│
+├───docs
+│   │   Contributing.md
+│   │   LICENSE
 │   │
-│   ├───guides # Guides for project setup and understanding.
-│   │   │   EngineeringRoundsExplained.md # Explanation of engineering rounds within Eden.
-│   │   │   InstallationGuide.md # Step-by-step setup guide.
+│   ├───guides
+│   │   │   EngineeringRoundsExplained.md
+│   │   │   InstallationGuide.md
 │   │   │
-│   │   └───CoreComponentConfigurationSetupInstructions # Setup instructions for core components.
-│   │           AutoGPTSetup.md # Instructions for setting up AutoGPT.
-│   │           EngineerGPTSetup.md # Instructions for setting up EngineerGPT.
-│   │           LeonAiSetup.md # Instructions for setting up Leon AI.
-│   │           PrivateGPTSetup.md # Instructions for setting up PrivateGPT.
-│   │           SelfOperatingComputerSetup.md # Instructions for setting up SelfOperatingComputer.
+│   │   └───CoreComponentConfigurationSetupInstructions
+│   │           AutoGPTSetup.md
+│   │           EngineerGPTSetup.md
+│   │           LeonAiSetup.md
+│   │           PrivateGPTSetup.md
+│   │           SelfOperatingComputerSetup.md
 │   │
 │   ├───knowledgeBases
 │   │   │   test.txt
@@ -24,40 +26,68 @@ Project_Eden/
 │   │   │   │   test.txt
 │   │   │   │
 │   │   │   └───shortTermMemoryFiles
-│   │   │           EdenAGiAutoGPTThoughts.md # Thoughts and insights from EdenAGiAutoGPT.
+│   │   │           EdenAGiAutoGPTThoughts.md
 │   │   │
 │   │   ├───memoryFiles
 │   │   │       test.txt
 │   │   │
 │   │   ├───projectInsights
-│   │   │       EngineeringProcess.md # Documentation on the engineering process.
-│   │   │       Introduction.md # Introductory guide to Project Eden.
-│   │   │       SupportAndContact.md # Support and contact information.
+│   │   │       EngineeringProcess.md
+│   │   │       Introduction.md
+│   │   │       SupportAndContact.md
 │   │   │
 │   │   ├───promptTemplateLibrary
-│   │   │       test.txt
+│   │   │       ProjectEdenAiInteractionPrompSimulationTemplate.md
 │   │   │
 │   │   ├───researchPapers
+│   │   │   │   CoreAiSystemRolesandOutlines.md
+│   │   │   │   Operational Framework and hierachy of system architecture.md
+│   │   │   │
+│   │   │   └───EdenAGiWhitePaper
+│   │   │           AI Agents and Their Roles.md
+│   │   │           Appendices.md
+│   │   │           Conclusion.md
+│   │   │           Ethical and Legal Considerations.md
+│   │   │           Future Directions and Expansions.md
+│   │   │           GitHub Repository Organization.md
+│   │   │           Innovative Technologies and Implementations.md
+│   │   │           Introduction.md
+│   │   │           Project Eden Architecture.md
+│   │   │           Project Eden White Paper Outline.md
+│   │   │           Project Management and Scalability.md
+│   │   │           ProjectEdenAGiExecutiveSummary.md
+│   │   │           Standard Operating Procedures (SOPs).md
+│   │   │           System Optimization Strategies.md
+│   │   │
 │   │   ├───systemWideKnowledgeBase
-│   │   │   │   currentFileSystemIndex.md # Index of the current file system structure.
-│   │   │   │   SystemWide_StrategicUpdatePlan.md # Strategic plans for system-wide updates.
+│   │   │   │   currentFileSystemIndex.md
+│   │   │   │   SystemWide_StrategicUpdatePlan.md
 │   │   │   │   test.txt
 │   │   │   │
-│   │   │   └───AgentSOPs
-│   │   │           SOP-AiModelDriverEngineerGPT.md # SOP for AiModelDriverEngineerGPT.
-│   │   │           SOP-EdenAGiAutoGPT.md # SOP for EdenAGiAutoGPT.
-│   │   │           SOP-keeperOfTheRecords.md # SOP for the Keeper of the Records.
-│   │   │           SOP-RabbitR1HardwareSystem.md # SOP for the Rabbit R1 hardware system.
-│   │   │           SOP-SystemsEngineerGPT.md # SOP for Systems Engineer GPT.
+│   │   │   ├───AgentSOPs
+│   │   │   │       SOP-AiModelDriverEngineerGPT.md
+│   │   │   │       SOP-DemoForexAccountAi.md
+│   │   │   │       SOP-EdenAGiAutoAi.md
+│   │   │   │       SOP-ForexTradingAi.md
+│   │   │   │       SOP-keeperOfTheRecords.md
+│   │   │   │       SOP-LiveForexAccountAi.md
+│   │   │   │       SOP-RabbitR1HardwareSystem.md
+│   │   │   │       SOP-SystemsEngineerGPT.md
+│   │   │   │
+│   │   │   └───AutoGPTMisionPrompts
+│   │   │           EdenAGiAutoGPTMissionPrompt.md
 │   │   │
 │   │   └───technicalReferences
-│   │           DetailedComponents.md # Details on project components.
-│   │           SystemOverview.md # Overview of the system architecture.
-│   │           UsageProtocols.md # Protocols for system usage.
+│   │           DetailedComponents.md
+│   │           SystemOverview.md
+│   │           UsageProtocols.md
 │   │
+│   ├───systemArchitecture
 │   ├───SystemInstructions
 │   │   └───CoreComponentConfigurationUsageInstructions
 │   ├───technicalDocs
+│   │       optimized_project_edenAGI_system_configuration.md
+│   │
 │   └───userManuals
 ├───plugins
 │   │   test.txt
@@ -67,6 +97,20 @@ Project_Eden/
 ├───src
 │   │   test.txt
 │   │
+│   ├───AiMarketplace
+│   │   ├───AppStore
+│   │   │   ├───FollowtheMusic
+│   │   │   │       default.txt
+│   │   │   │
+│   │   │   └───TheChronicalsofEldwood
+│   │   │           default.txt
+│   │   │
+│   │   ├───Music
+│   │   ├───NFTStore
+│   │   │       default.txt
+│   │   │
+│   │   ├───PromptLibrary
+│   │   └───Video
 │   ├───aiModels
 │   │   │   test.txt
 │   │   │
@@ -85,18 +129,26 @@ Project_Eden/
 │   │   └───selfOperatingComputer
 │   │           test.txt
 │   │
+│   ├───Apps
+│   │   ├───AiRadio
+│   │   │       default.txt
+│   │   │
+│   │   └───Maps
+│   │           default.txt
+│   │
 │   ├───codeGeneration
 │   │       test.txt
 │   │
+│   ├───DeFiMerchantService
 │   └───drivers
 │       ├───aiModels
-│       │       AutoGPTDriver.json # Driver for AutoGPT.
-│       │       LeonAiDriver.json # Driver for Leon AI.
-│       │       PrivateGPTDriver.json # Driver for PrivateGPT.
-│       │       SelfOperatingComputerDriver.json # Driver for SelfOperatingComputer.
+│       │       AutoGPTDriver.json
+│       │       LeonAiDriver.json
+│       │       PrivateGPTDriver.json
+│       │       SelfOperatingComputerDriver.json
 │       │
 │       └───hardware
-│               RabbitR1Driver.json # Driver for Rabbit R1 hardware.
+│               RabbitR1Driver.json
 │
 ├───staging
 └───tests
@@ -104,9 +156,12 @@ Project_Eden/
     │
     ├───autoGPT
     │       test.txt
+    │
     ├───leonAI
     │       test.txt
+    │
     ├───privateGPT
     │       test.txt
+    │
     └───selfOperatingComputerTests
             test.txt
