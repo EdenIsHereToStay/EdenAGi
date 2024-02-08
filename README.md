@@ -18,6 +18,21 @@ Project EdenAGI encompasses several critical components, each playing a vital ro
 - **PrivateGPT**: Ensures the privacy and security of document processing within the ecosystem, safeguarding sensitive data.
 - **Communication Protocol**: Utilizes an efficient JSON file system for seamless and coherent communication between components.
 
+### Getting Started
+Stepping into the world of AI can be a thrilling adventure, and we're here to invite you on an extraordinary journey with Project EdenAGI. Imagine a place where your curiosity and creativity fuel the development of an AI that's not just smart but truly understands and evolves with you. 
+
+That's the heart of Project EdenAGI – an innovative, open-source project aiming to democratize Artificial General Intelligence (AGI).
+Why Join Project EdenAGI?
+- Unlock Your Creative Potential: Dive into AI like never before, crafting technology that learns, adapts, and grows.
+- Empower Your Ideas: Bring your visions to life with a platform that values individual sovereignty and collaborative progress.
+- Shape the Future: Your contributions can redefine the boundaries of AI, making it more accessible, ethical, and impactful.
+
+No matter your background or expertise, there's a place for you in Project EdenAGI. Whether you're keen on developing cutting-edge technology, exploring the possibilities of AGI, or simply curious about how AI can enhance our world, we welcome you.
+
+Start your journey into the future of AI today. Click to discover how you can be a part of this exciting venture: [ https://www.projecteden.online/getting-started ].
+
+Let's explore the limitless potential of Ai and AGi together. #ProjectEdenAGI #FutureOfAI #OpenSourceRevolution [ see: https://www.projecteden.online/getting-started ]
+
 ### Engineering Rounds Explained
 Engineering Rounds constitute the operational core of EdenAGI, facilitating communication between AI agents through well-designed prompt templates. This cyclic process includes initiation, data processing, synthesis by the core of EdenAGI, and ends with a system memory update, promoting constant learning and evolution of the system.
 
