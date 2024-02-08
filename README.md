@@ -31,8 +31,6 @@ No matter your background or expertise, there's a place for you in Project EdenA
 
 Start your journey into the future of AI today. Click to discover how you can be a part of this exciting venture: [ https://www.projecteden.online/getting-started ].
 
-Let's explore the limitless potential of Ai and AGi together. #ProjectEdenAGI #FutureOfAI #OpenSourceRevolution [ see: https://www.projecteden.online/getting-started ]
-
 ### Engineering Rounds Explained
 Engineering Rounds constitute the operational core of EdenAGI, facilitating communication between AI agents through well-designed prompt templates. This cyclic process includes initiation, data processing, synthesis by the core of EdenAGI, and ends with a system memory update, promoting constant learning and evolution of the system.
 
