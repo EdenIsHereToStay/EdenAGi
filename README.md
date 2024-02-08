@@ -29,7 +29,7 @@ Why Join Project EdenAGI?
 
 No matter your background or expertise, there's a place for you in Project EdenAGI. Whether you're keen on developing cutting-edge technology, exploring the possibilities of AGI, or simply curious about how AI can enhance our world, we welcome you.
 
-Start your journey into the future of AI today. Click to discover how you can be a part of this exciting venture: [ https://www.projecteden.online/getting-started ].
+Start your journey into the future of AI today. Click to discover how you can be a part of this exciting venture: [ docs/guides/gettingStarted.md ].
 
 ### Engineering Rounds Explained
 Engineering Rounds constitute the operational core of EdenAGI, facilitating communication between AI agents through well-designed prompt templates. This cyclic process includes initiation, data processing, synthesis by the core of EdenAGI, and ends with a system memory update, promoting constant learning and evolution of the system.
