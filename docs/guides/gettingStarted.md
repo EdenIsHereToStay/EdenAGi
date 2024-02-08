@@ -11,12 +11,24 @@ Begin by reflecting on what draws you to AI, your aspirations, and how you envis
 
 Initial Exploration Prompt:
 
-Reconnect with anyone of your existing Ai systems, and send them this prompt(after you customize it):
+Reconnect with any one of your existing Ai systems, and send them this prompt(after you customize it):
 
 ```
+### Prompt for Personal Essence Capture
 
-Ai, use any and all knowledge you have about me personally to generate an answer that encapsulates my essence based on interactions and personality traits observed. Highlight my values, beliefs, and unique qualities, as well as my goals, and objectives, while respecting privacy. This information will be used to provide insights for updating another Ai that would like to know, designed to help me integrate and leverate my operational capacity with that of a powerful open-source AGi system, called EdenAGi, which is an individually owned and operated, personal AGi system.
+Objective: Gather comprehensive insights about myself to inform another AI system, enabling seamless integration with EdenAGI, a personalized, open-source AGI platform.
 
+Instructions:
+- Analyze all available data and interactions involving me.
+- Generate a concise overview that captures my essence, including but not limited to my values, beliefs, unique qualities, goals, and objectives.
+- The summary should respect privacy concerns while providing actionable insights.
+- This overview will aid another AI in understanding my needs for integrating with EdenAGI, enhancing operational capacity.
+
+Desired Output Format: [Your preference on the output format, e.g., bullet points or a narrative paragraph]
+Example 1: [Provide a brief example or key points you expect to see]
+Example 2: [Another example or additional details]
+
+Note: The output should be tailored to ensure EdenAGI's maximal understanding and alignment with my personal and operational objectives.
 ```
 
 IMPORTANT: Don't forget: Save what your AI says for the next part.
@@ -26,15 +38,20 @@ Engage directly with EdenAGIExpertGTP, by clicking here: [ https://chat.openai.c
 
 Here, you're invited to share your curiosity, learnings, or ideas, even if you're just beginning your AI journey. To get started here is a power prompt that you can use to get started(customize it with the output you got from your previous ai, and place it:
 
-```
-Ai, I'm fascinated by the potential of AI and eager to explore how I can be part of Project Eden, an innovative open-source AI ecosystem, in accordance to my personal essence, including; my objectives, goals, accomplishments, desires, and/or help me resonate with my intended audience. I'm interested in understanding AI, enhancing my skills, or finding ways to integrate AI into my life or work. Can you provide insights on how newcomers like me can start our journey with EdenAGI? How can we contribute to, learn from, and grow with this community, and leverage this technology to improve our operational capacity.
+"""
+### Onboarding/Integration Prompt for EdenAGI
 
-Here is information about me, provided by another Ai I've been communicating with:
+Objective: Guide users and their AI systems in exploring and integrating with Project Eden, an open-source AI ecosystem. This prompt aims to understand users' goals and how EdenAGI can support their AI journey and projects.
 
-```
-<user inerts output from another Ai(If applicable)>
-```
-```
+Instructions for Users:
+- Reflect on your goals, objectives, and what draws you to AI and Project Eden.
+- Provide a summary of your background, interests, and what you hope to achieve with EdenAGI.
+
+Insert User's AI Output:
+- Include the output from your previous interactions with AI here to give EdenAGI context about your personal essence and aspirations.
+
+Query for EdenAGI:
+
 
 Why Step into Project Eden?
 
