@@ -8,7 +8,7 @@ Step 1: Ignite Your Vision
 Begin by reflecting on what draws you to AI, your aspirations, and how you envision contributing to or benefiting from the AI community. This step is about identifying your place within the EdenAGI ecosystem, regardless of your background or expertise.
 Initial Exploration Prompt:
 Reconnect with any of your existing Ai systems, and send them this prompt(after you customize it):
-```
+
 ```
 ### Prompt for Personal Essence Capture
 
@@ -25,7 +25,7 @@ Example 1: [Provide a brief example or key points you expect to see]
 Example 2: [Another example or additional details]
 
 Note: The output should be tailored to ensure EdenAGI's maximal understanding and alignment with my personal and operational objectives.
-``````
+```
 
 Don't forget: Save what your AI says for the next part.
 
@@ -42,7 +42,9 @@ Instructions for Ai:
 - Provide a summary of my background, interests, and what I hope to achieve with EdenAGI.
 
 Insert User's AI Output:
-```<user inserts the output from the other Ai to give EdenAGI context about your personal essence and aspirations.>```
+```
+  <user inserts the output from the other Ai to give EdenAGI context about your personal essence and aspirations.>
+```
 
 Query for EdenAGI:
 Ai, based on my background and the information provided, in combination with your knowledge of Project Eden[ www.ProjectEden.Online ], how can we effectively integrate with and contribute to Project Eden? I am interested in: <user inserts specific interests, e.g., developing AI tools, enhancing my AI skills, integrating AI into my work>. Please offer guidance on starting my journey with EdenAGI, contributing to the community, and leveraging this technology to enhance our operational capacity.
