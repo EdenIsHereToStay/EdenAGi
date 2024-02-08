@@ -38,7 +38,7 @@ Engage directly with EdenAGIExpertGTP, by clicking here: [ https://chat.openai.c
 
 Here, you're invited to share your curiosity, learnings, or ideas, even if you're just beginning your AI journey. To get started here is a power prompt that you can use to get started(customize it with the output you got from your previous ai, and place it:
 
-"""
+```
 ### Onboarding/Integration Prompt for EdenAGI
 
 Objective: Guide users and their AI systems in exploring and integrating with Project Eden, an open-source AI ecosystem. This prompt aims to understand users' goals and how EdenAGI can support their AI journey and projects.
@@ -51,6 +51,17 @@ Insert User's AI Output:
 - Include the output from your previous interactions with AI here to give EdenAGI context about your personal essence and aspirations.
 
 Query for EdenAGI:
+Ai, based on my background and the information provided, how can I effectively integrate with and contribute to Project Eden? I am interested in [specific interests, e.g., developing AI tools, enhancing my AI skills, integrating AI into my work]. Please offer guidance on starting my journey with EdenAGI, contributing to the community, and leveraging this technology to enhance my operational capacity.
+
+Examples of Desired Outcomes:
+
+Example 1: A step-by-step guide on getting started with Project Eden for developers.
+Example 2: Recommendations for non-developers on how to engage with and learn from the EdenAGI community.
+
+Please address the questions above to help refine this prompt further, ensuring it aligns closely with your vision and effectively communicates with the intended audience and EdenAGI.
+```
+
+
 
 
 Why Step into Project Eden?
