@@ -19,15 +19,21 @@ Ai, use any and all knowledge you have about me personally to generate an answer
 
 ```
 
-Don't forget: Save what your AI says for the next part.
+IMPORTANT: Don't forget: Save what your AI says for the next part.
 
 Step 2: Connect with the Essence of EdenAGI by speaking directly to EdenAGiExpertGPT!
 Engage directly with EdenAGIExpertGTP, by clicking here: [ https://chat.openai.com/g/g-j9ps3yeMW-eden-agi-systems-engineer ].
 
-Here, you're invited to share your curiosity, learnings, or ideas, even if you're just beginning your AI journey:
+Here, you're invited to share your curiosity, learnings, or ideas, even if you're just beginning your AI journey. To get started here is a power prompt that you can use to get started(customize it with the output you got from your previous ai, and place it:
 
 ```
 Ai, I'm fascinated by the potential of AI and eager to explore how I can be part of Project Eden, an innovative open-source AI ecosystem, in accordance to my personal essence, including; my objectives, goals, accomplishments, desires, and/or help me resonate with my intended audience. I'm interested in understanding AI, enhancing my skills, or finding ways to integrate AI into my life or work. Can you provide insights on how newcomers like me can start our journey with EdenAGI? How can we contribute to, learn from, and grow with this community, and leverage this technology to improve our operational capacity.
+
+Here is information about me, provided by another Ai I've been communicating with:
+
+```
+<user inerts output from another Ai(If applicable)>
+```
 ```
 
 Why Step into Project Eden?
