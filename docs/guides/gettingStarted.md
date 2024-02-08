@@ -42,9 +42,9 @@ Instructions for Ai:
 - Provide a summary of my background, interests, and what I hope to achieve with EdenAGI.
 
 Insert User's AI Output:
-```
+"
   <user inserts the output from the other Ai to give EdenAGI context about your personal essence and aspirations.>
-```
+"
 
 Query for EdenAGI:
 Ai, based on my background and the information provided, in combination with your knowledge of Project Eden[ www.ProjectEden.Online ], how can we effectively integrate with and contribute to Project Eden? I am interested in: <user inserts specific interests, e.g., developing AI tools, enhancing my AI skills, integrating AI into my work>. Please offer guidance on starting my journey with EdenAGI, contributing to the community, and leveraging this technology to enhance our operational capacity.
