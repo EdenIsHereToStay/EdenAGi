@@ -11,16 +11,14 @@ Reconnect with any of your existing Ai systems, and send them this prompt(after 
 
 ```
 ### Prompt for Personal Essence Capture
-
-Objective: Gather comprehensive insights about myself to inform another AI system, enabling seamless integration with EdenAGI, a personalized, open-source AGI platform.
-
+Objective: Gather comprehensive insights about myself( <user inserts name here, unless Ai is already aware of users name.> ) to inform another AI system, enabling seamless integration with EdenAGI, a personalized, open-source AGI platform.
 Instructions:
 - Analyze all available data and interactions involving me.
 - Generate a concise overview that captures my essence, including but not limited to my values, beliefs, unique qualities, goals, and objectives.
 - The summary should respect privacy concerns while providing actionable insights.
 - This overview will aid another AI in understanding my needs for integrating with EdenAGI, enhancing operational capacity.
-
-Note: The output should be tailored to ensure EdenAGI's maximal understanding and alignment with my personal and operational objectives.
+Note: The output should be tailored to ensure EdenAGI's maximal understanding and alignment with my personal and operational objectives.Expected output should start with:
+"Ai, here is a detailed analysis of <Ai inserts user name>..."
 ```
 
 Don't forget: Save what your AI says for the next part.
