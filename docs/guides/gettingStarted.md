@@ -20,10 +20,6 @@ Instructions:
 - The summary should respect privacy concerns while providing actionable insights.
 - This overview will aid another AI in understanding my needs for integrating with EdenAGI, enhancing operational capacity.
 
-Desired Output Format(Leave unedited to let Ai Decide): [Your preference on the output format, e.g., bullet points or a narrative paragraph]
-Example 1: [Provide a brief example or key points you expect to see]
-Example 2: [Another example or additional details]
-
 Note: The output should be tailored to ensure EdenAGI's maximal understanding and alignment with my personal and operational objectives.
 ```
 
