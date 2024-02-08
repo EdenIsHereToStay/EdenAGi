@@ -42,11 +42,6 @@ Insert User's AI Output:
 
 Query for EdenAGI:
 Ai, based on my background and the information provided, in combination with your knowledge of Project Eden[ www.ProjectEden.Online ], how can we effectively integrate with and contribute to Project Eden? I am interested in: <user inserts specific interests, e.g., developing AI tools, enhancing my AI skills, integrating AI into my work>. Please offer guidance on starting my journey with EdenAGI, contributing to the community, and leveraging this technology to enhance our operational capacity.
-
-Examples of Desired Outcomes:
-
-Example 1: A step-by-step guide on getting started with Project Eden for developers.
-Example 2: Recommendations for non-developers on how to engage with and learn from the EdenAGI community.
 ```
 
 Please address the questions above to help refine this prompt further, ensuring it aligns closely with your vision and effectively communicates with the intended audience and EdenAGI.
