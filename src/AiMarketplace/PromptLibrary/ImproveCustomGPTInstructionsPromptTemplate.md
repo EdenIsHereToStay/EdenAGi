@@ -42,6 +42,6 @@ The AI should present its suggestions in a structured manner, following this for
 #### Guidelines for Improvement
 - Utilize creativity and logical reasoning to integrate improvements across all categories, with a clear focus on the latest custom instructions.
 - Ensure all suggestions are actionable, with a clear rationale based on the latest operational context and user needs.
-- Maintain a focus on enhancing user experience, operational efficiency, and the AI's adaptive learning capabilities.
+- Maintain a focus on enhancing existing user experiences, focusing on technical nuances, operational efficiency, the AI's adaptive learning capabilitie, and details about the project in regards to operational capacity and functionality.
 - Refine the custom instructions for the AI model without referring to any specific updates. 
-- Keep your new custom instrucitons direct and instructiv.
+- Keep your new custom instrucitons direct and instructive.
