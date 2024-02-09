@@ -33,15 +33,18 @@ The AI should present its suggestions in a structured manner, following this for
 
 - **Latest Custom Instructions**: (User-provided input to guide the improvement process)
 - **Name**: (Remains as initially provided)
-- **Description**: [Updated description based on iterative improvements and recent insights]
-- **Instructions**: [Refined instructions incorporating new capabilities or focus areas identified]
+- **Description**: [Updated description of the custom GPT model. Max 300 characters.]
+- **Instructions**(Make the instructions informative for the Ai, creatively and strategically utilizing this section to give the Ai a robust understanding of key, and critical knowledge of EdenAGi's operational capacities and functionlaties for user guidance.): [Refined instructions incorporating new capabilities or focus areas identified]
 - **Conversation Starters**: [New or updated conversation starters designed to enhance user interaction with the AI system]
 - **Knowledge**: [Ideas for new knowledge documents or enhancements to existing ones, aimed at broadening the AI's understanding and operational efficiency]
+   - Existing Knowledge bases in GPT:
+      - IntegratingAdvance Ai ModelsinProjectEden-ATechnicalGuide.md
+      - 
 - **Actions**: [Suggestions for new actions or updates to existing ones, enhancing the AI's ability to meet user needs and operational goals]
 
 #### Guidelines for Improvement
-- Utilize creativity and logical reasoning to integrate improvements across all categories, with a clear focus on the latest custom instructions.
+- Focus on upgrading/upgrading knowledge, understanding, an fucntionality without removing or reducing current knowledge and operational functionality. Our goal is to update the knowledge without negatively effecting current system. Utilize creativity and logical reasoning to integrate improvements across all categories, with a clear focus on the latest custom instructions.
 - Ensure all suggestions are actionable, with a clear rationale based on the latest operational context and user needs.
 - Maintain a focus on enhancing existing user experiences, focusing on technical nuances, operational efficiency, the AI's adaptive learning capabilitie, and details about the project in regards to operational capacity and functionality.
 - Refine the custom instructions for the AI model without referring to any specific updates. 
-- Keep your new custom instrucitons direct and instructive.
+- Keep your new custom instructons direct and instructive.

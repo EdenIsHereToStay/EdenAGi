@@ -12,7 +12,7 @@ The process of developing SOPs involves a thorough analysis of each component's 
 
 - **AutoGPT SOPs**: Focus on the operational aspects of AutoGPT agents, detailing task allocation processes, parent-child configuration protocols, and interaction guidelines with other AI models and subsystems. These SOPs also cover the optimization of workload distribution and efficiency measures for task execution.
 
-- **Systems Engineer GPT SOPs**: Describe the coordination role of Systems Engineer AI, including the translation of strategic directives from EdenAGI into specific tasks for execution, monitoring the performance and workload of AI agents, and facilitating the dynamic adaptation of the system architecture to meet project needs.
+- **Systems Engineer GPT SOPs**: Describe the coordination role of Systems Engineer AI, including the translation of strategic directives from EdenAGI into specific tasks for execution, monitoring the performance and workload of AI agents, and facilitating the dynamic adaptation of the system architecture to meet project needs
 
 #### SOPs Adaptation and Evolution Process
 
