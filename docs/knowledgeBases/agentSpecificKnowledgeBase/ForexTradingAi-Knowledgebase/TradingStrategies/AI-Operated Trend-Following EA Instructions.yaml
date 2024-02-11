@@ -1,0 +1,19 @@
+TrendFollowingEA:
+  description: "Automate trade execution based on the prevailing market trend using identified indicators."
+  indicators:
+    - name: "200-day Moving Average"
+      purpose: "Determine trend direction."
+    - name: "ADX"
+      value: "25+"
+      purpose: "Confirm trend strength."
+  risk_management:
+    stop_loss: "1-2% of account balance per trade."
+    take_profit: "Adjust based on trend strength and asset volatility."
+  time_frame: "4-hour or daily charts"
+  operation_mode: "Automated trend analysis with real-time market data feed."
+  action_sequence:
+    - "Analyze market trend using the 200-day Moving Average."
+    - "Confirm trend strength with ADX indicator."
+    - "Execute buy/sell orders in the direction of the trend."
+    - "Apply stop-loss and take-profit settings based on predefined risk management strategy."
+  monitoring_frequency: "Periodic review for adjustment based on market changes."

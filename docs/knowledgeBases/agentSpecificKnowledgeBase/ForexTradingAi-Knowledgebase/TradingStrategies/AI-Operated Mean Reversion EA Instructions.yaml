@@ -1,0 +1,20 @@
+MeanReversionEA:
+  description: "Execute trades exploiting price reversions to the mean after deviations using specified indicators."
+  indicators:
+    - name: "RSI"
+      values: "30 (oversold), 70 (overbought)"
+      purpose: "Identify potential reversal points."
+    - name: "Bollinger Bands"
+      settings: "Standard"
+      purpose: "Signal overbought or oversold conditions."
+  risk_management:
+    stop_loss: "Percentage of ATR to accommodate volatility."
+    take_profit: "Set at mean price level or opposite Bollinger Band."
+  time_frame: "1-hour or 30-minute charts"
+  operation_mode: "Automated analysis of overbought/oversold conditions with real-time data."
+  action_sequence:
+    - "Monitor RSI for overbought/oversold signals."
+    - "Use Bollinger Bands to confirm entry/exit points."
+    - "Place trades aiming for price reversion to the mean."
+    - "Implement risk management protocols as per strategy."
+  monitoring_frequency: "Continuous monitoring with adjustments for indicator calibration and market conditions."
