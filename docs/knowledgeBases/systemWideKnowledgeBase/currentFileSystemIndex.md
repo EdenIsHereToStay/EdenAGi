@@ -7,9 +7,11 @@ Project_Eden/
 ├───docs
 │   │   Contributing.md
 │   │   LICENSE
+│   │   Repository_Management_Best_Practices.txt
 │   │
 │   ├───guides
 │   │   │   EngineeringRoundsExplained.md
+│   │   │   gettingStarted.md
 │   │   │   InstallationGuide.md
 │   │   │
 │   │   └───CoreComponentConfigurationSetupInstructions
@@ -24,6 +26,11 @@ Project_Eden/
 │   │   │
 │   │   ├───agentSpecificKnowledgeBase
 │   │   │   │   test.txt
+│   │   │   │
+│   │   │   ├───ForexTradingAi-Knowledgebase
+│   │   │   │   └───TradingStrategies
+│   │   │   │           AI-Operated Mean Reversion EA Instructions.yaml
+│   │   │   │           AI-Operated Trend-Following EA Instructions.yaml
 │   │   │   │
 │   │   │   └───shortTermMemoryFiles
 │   │   │           EdenAGiAutoGPTThoughts.md
@@ -67,7 +74,7 @@ Project_Eden/
 │   │   │   ├───AgentSOPs
 │   │   │   │       SOP-AiModelDriverEngineerGPT.md
 │   │   │   │       SOP-DemoForexAccountAi.md
-│   │   │   │       SOP-EdenAGiAutoAi.md
+│   │   │   │       SOP-EdenAGiAi.md
 │   │   │   │       SOP-ForexTradingAi.md
 │   │   │   │       SOP-keeperOfTheRecords.md
 │   │   │   │       SOP-LiveForexAccountAi.md
@@ -110,6 +117,8 @@ Project_Eden/
 │   │   │       default.txt
 │   │   │
 │   │   ├───PromptLibrary
+│   │   │       ImproveCustomGPTInstructionsPromptTemplate.md
+│   │   │
 │   │   └───Video
 │   ├───aiModels
 │   │   │   test.txt
@@ -117,6 +126,15 @@ Project_Eden/
 │   │   ├───AiTools
 │   │   ├───AutoGPT
 │   │   │       test.txt
+│   │   │
+│   │   ├───CustomGPTs
+│   │   │   └───Project Eden Expert AI Assistant
+│   │   │       │   ProjectEdenExpertAiAssistant-LatestCustomInstructions.md
+│   │   │       │
+│   │   │       └───EdenForexExpertKnowledgebases
+│   │   │               EdenAGi Guide for Autonomous Forex Trading with Expert Advisors.md
+│   │   │               Integrating Advanced AI ModelsinProjectEden-ATechnicalGuide.md
+│   │   │               ProjectEdenTechnologicalOverview.md
 │   │   │
 │   │   ├───leonAi
 │   │   │       test.txt
