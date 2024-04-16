@@ -49,6 +49,10 @@ Why Step into Project Eden?
 
 Joining Project Eden means more than engaging with an AI project; it's about contributing to a visionary endeavor that champions AI sovereignty, innovation, and collective wisdom. Your curiosity, learning spirit, and engagement are vital to the ongoing evolution of Eden.
 
+--------------------------
+
+When you are done with this step, move on to step 2: Use EdenConnect to establish baseline operational capacity and ability for your Eden System. This next process will allow you and your activated models the ability to leverage Eden's current operational capacity and cabilities to accomplish your goals.(probably not the best verbage). link: [ docs/guides/EdenConnectInstructions ].
+
 🌱 Grow and Innovate Together with Project Eden 🌱
 Begin your exploration and collaboration at Project Eden Online [ https://www.projecteden.online/ ].
 Contribute to, learn from, and help shape EdenAGI by diving into our GitHub: [ https://github.com/EdenIsHereToStay/EdenAGi ].
