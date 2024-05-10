@@ -1,0 +1,8 @@
+# Ignore memory files and AI model directories
+docs/knowledgeBases/memoryFiles/
+src/aiModels/AiTools/
+src/aiModels/AutoGPT/
+src/aiModels/leonAi/
+src/aiModels/O1/
+src/aiModels/privateGPT/
+src/aiModels/selfOperatingComputer/
