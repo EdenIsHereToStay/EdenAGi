@@ -6,11 +6,13 @@ Welcome to the repository of Project EdenAGI, a pioneering open-source project d
 Project EdenAGI is designed as a cutting-edge blueprint for an AI system that goes beyond the traditional constraints of artificial intelligence. It aims to provide a personal, private, and sovereign AI solution, focusing on empowering users, safeguarding data integrity, and promoting ethical AI practices. Interact with the version of Eden Systems Engineer GPT that created this readme by clicking here: [ https://chat.openai.com/share/5555b5c9-bedf-4c9a-bf70-c56989fa3e4e ]
 
 ## System Overview
-The architecture of EdenAGI is a modular and comprehensive AI ecosystem, constructed to be self-sufficient. It is capable of autonomously executing complex tasks and making informed decisions based on the resources at hand and set directives.
+The architecture of EdenAGI is a modular and comprehensive AI ecosystem, constructed to be self-sufficient. It is capable of autonomously executing complex tasks and making informed decisions based on the resources at hand and set directives. Current File Tree index is located here: [ C:\EdenAGi\EdenAGi\docs\knowledgeBases\systemWideKnowledgeBase\currentFileSystemIndex.md ] Relative path: [ docs\knowledgeBases\systemWideKnowledgeBase\currentFileSystemIndex.md ]
 
 ### Detailed Components Analysis
 Project EdenAGI encompasses several critical components, each playing a vital role in the system's autonomy and functionality:
 - **AutoGPT**: Serves as the central intelligence unit, generating autonomous prompts and managing task executions within the system.
+- **O1**: Open source model to control operating systems.
+- **Rabbit.r!**: Open source hardware device that can see the world, and interact with users via voice commands and control various operating systems and devices using large action models.
 - **Leon.AI**: Acts as the user interface and operational hub, orchestrating task allocation throughout the AI network.
 - **First-Level AutoGPT**: Functions as an AI task dispatcher, directing tasks to specific second-tier AutoGPT agents based on their specialization.
 - **Second-Tier AutoGPTs**: Comprises specialized AI agents focused on executing assigned tasks and reporting outcomes.
